@@ -1,0 +1,1 @@
+macro is the part of the code that replaced the particular character by the macro.
